@@ -1,3 +1,3 @@
 # HA-hackathon
 
-https://hamergency.nafisaanzum1.repl.co/index.html
+https://hackio-ha.hafeefas.repl.co/
